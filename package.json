@@ -1,0 +1,23 @@
+{
+  "name": "expressproductapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messy1234-code/ExpressProductApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/messy1234-code/ExpressProductApi/issues"
+  },
+  "homepage": "https://github.com/messy1234-code/ExpressProductApi#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
